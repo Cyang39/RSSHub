@@ -2096,6 +2096,9 @@
     "/gitpod/changelog": [
         "TonyRL"
     ],
+    "/globallawreview/": [
+        "nczitzk"
+    ],
     "/gocn/": [
         "AtlanCI",
         "CcccFz"
@@ -3266,6 +3269,9 @@
     "/kemono/posts": [
         "nczitzk"
     ],
+    "/keylol/:path+": [
+        "nczitzk"
+    ],
     "/kimlaw/thesis": [
         "TonyRL"
     ],
@@ -3469,6 +3475,9 @@
     ],
     "/macmenubar/recently/:category?": [
         "5upernova-heng"
+    ],
+    "/macupdate/app/:appId/:appSlug?": [
+        "TonyRL"
     ],
     "/magazinelib/latest-magazine/:query?": [
         "NavePnow"
@@ -4855,6 +4864,28 @@
     "/sis001/forum/:id": [
         "TonyRL"
     ],
+    "/sjtu/gs/:type/:num?": [
+        "dzx-dzx"
+    ],
+    "/sjtu/jwc/:type?": [
+        "SeanChao"
+    ],
+    "/sjtu/seiee/academic": [
+        "HenryQW"
+    ],
+    "/sjtu/seiee/bjwb/:type": [
+        "Polynomia"
+    ],
+    "/sjtu/seiee/xsb/:type?": [
+        "Polynomia",
+        "xxchan"
+    ],
+    "/sjtu/tongqu/:type?": [
+        "SeanChao"
+    ],
+    "/sjtu/yzb/zkxx/:type": [
+        "stdrc"
+    ],
     "/skysports/news/:team": [
         "nczitzk"
     ],
@@ -5305,6 +5336,9 @@
     "/theverge/:hub?": [
         "HenryQW",
         "vbali"
+    ],
+    "/threads/:user/:routeParams?": [
+        "ninboy"
     ],
     "/thwiki/calendar/:before?/:after?": [
         "aether17"
@@ -6426,13 +6460,6 @@
     "/hhu/libNewsc": [],
     "/shanghaitech/activity": [],
     "/shanghaitech/sist/activity": [],
-    "/sjtu/seiee/academic": [],
-    "/sjtu/seiee/bjwb/:type": [],
-    "/sjtu/seiee/xsb/:type?": [],
-    "/sjtu/gs/tzgg/:type?": [],
-    "/sjtu/jwc/:type?": [],
-    "/sjtu/tongqu/:type?": [],
-    "/sjtu/yzb/zkxx/:type": [],
     "/ju/jwc/:type?": [],
     "/lit/jwc": [],
     "/lit/xwzx/:name?": [],

@@ -8282,6 +8282,20 @@
       }
     ]
   },
+  "globallawreview.org": {
+    "_name": "环球法律评论",
+    ".": [
+      {
+        "title": "期刊",
+        "docs": "https://docs.rsshub.app/journal.html#huan-qiu-fa-lu-ping-lun",
+        "source": [
+          "/Magazine/GetIssueContentList",
+          "/"
+        ],
+        "target": "/globallawreview"
+      }
+    ]
+  },
   "gocn.vip": {
     "_name": "GoCN",
     ".": [
@@ -13428,6 +13442,19 @@
       }
     ]
   },
+  "keylol.com": {
+    "_name": "其乐",
+    ".": [
+      {
+        "title": "论坛",
+        "docs": "https://docs.rsshub.app/game.html#qi-le-lun-tan",
+        "source": [
+          "/:category",
+          "/"
+        ]
+      }
+    ]
+  },
   "kimlaw.or.kr": {
     "_name": "韓國海事法學會",
     ".": [
@@ -14295,6 +14322,19 @@
           "/:category"
         ],
         "target": "/macmenubar/recently/category"
+      }
+    ]
+  },
+  "macupdate.com": {
+    "_name": "MacUpdate",
+    ".": [
+      {
+        "title": "更新",
+        "docs": "https://docs.rsshub.app/program-update.html#macupdate",
+        "source": [
+          "/app/mac/:appId/:appSlug"
+        ],
+        "target": "/macupdate/app/:appId/:appSlug?"
       }
     ]
   },
@@ -20286,6 +20326,54 @@
       }
     ]
   },
+  "sjtu.edu.cn": {
+    "_name": "上海交通大学",
+    "bjwb.seiee": [
+      {
+        "title": "电子信息与电气工程学院",
+        "docs": "https://docs.rsshub.app/university.html#shang-hai-jiao-tong-da-xue",
+        "source": [
+          "/seiee/list/:type",
+          "/bkjwb/list/:type",
+          "/xsb/list/:type"
+        ]
+      }
+    ],
+    "gs": [
+      {
+        "title": "研究生通知公告",
+        "docs": "https://docs.rsshub.app/university.html#shang-hai-jiao-tong-da-xue-yan-jiu-sheng-tong-zhi-gong-gao",
+        "source": [
+          "/announcement/:type"
+        ],
+        "target": "/sjtu/gs/:type"
+      }
+    ],
+    "jwc": [
+      {
+        "title": "教务处通知公告",
+        "docs": "https://docs.rsshub.app/university.html#shang-hai-jiao-tong-da-xue",
+        "source": [
+          "/xwtg/:type"
+        ]
+      }
+    ],
+    "tongqu": [
+      {
+        "title": "同去网最新活动",
+        "docs": "https://docs.rsshub.app/university.html#shang-hai-jiao-tong-da-xue"
+      }
+    ],
+    "yzb": [
+      {
+        "title": "研究生招生网招考信息",
+        "docs": "https://docs.rsshub.app/university.html#shang-hai-jiao-tong-da-xue",
+        "source": [
+          "/index/zkxx/:type"
+        ]
+      }
+    ]
+  },
   "skysports.com": {
     "_name": "Sky Sports",
     ".": [
@@ -21906,6 +21994,18 @@
           "/"
         ],
         "target": "/theverge/:hub?"
+      }
+    ]
+  },
+  "threads.net": {
+    "_name": "Threads",
+    ".": [
+      {
+        "title": "User timeline",
+        "docs": "https://docs.rsshub.app/en/social-media.html#threads",
+        "source": [
+          "/:user"
+        ]
       }
     ]
   },
